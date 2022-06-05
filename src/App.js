@@ -65,7 +65,7 @@ class App extends Component {
   } 
 
   OnSubmit = (e) => {
-    e.preventDefault();
+    // e.preventDefault();
     this.setState({imageURL: this.state.input})
     app.models.predict(
       Clarifai.FACE_DETECT_MODEL,
