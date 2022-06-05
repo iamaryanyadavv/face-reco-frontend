@@ -1,0 +1,17 @@
+.nav-style{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.signout{
+    color: rgb(241, 241, 241);
+    font-size: 1rem;
+    padding: 0.50rem 0.75rem 0.75rem 0.75rem;
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+    background-image: linear-gradient(to bottom, #7a7a7a, #626262, #4b4b4b, #353535, #202020);
+    border-radius: 7px;
+}
+.signout:hover{
+    cursor: pointer;
+    color: #cdcdcd;
+}

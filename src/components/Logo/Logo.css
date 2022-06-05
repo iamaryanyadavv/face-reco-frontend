@@ -1,0 +1,14 @@
+.Tilt{
+    height: 6rem;
+    width: 6rem;
+    box-shadow: 4px 4px 8px rgba(0 0 0 / 20%);
+    border-radius: 10px;
+    margin: 2% 2% 0% 2%;
+    background-image: linear-gradient(to bottom, #7a7a7a, #626262, #4b4b4b, #353535, #202020);
+}
+.logo{
+    padding: 1rem 0rem 1rem 0rem;
+}
+.Tilt-inner:hover{
+    cursor: pointer;
+}

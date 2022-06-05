@@ -1,0 +1,40 @@
+.imglinkformtext{
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    color: rgb(233, 233, 233);
+}
+.searchpart{
+    padding-top: 0.01rem;
+    box-shadow: 4px 4px 8px;
+    border-radius: 10px;
+    margin: 1.25rem 20% 3rem 20%;
+    background-image: linear-gradient(to bottom, #7a7a7a, #626262, #4b4b4b, #353535, #202020);
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.searchactual{
+    padding: 0rem 2.25rem 2rem 2.25rem;
+    width: 100%;
+}
+.button{
+    background-color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 0rem 0.5rem 0.125rem 0.5rem;
+    margin: 0rem 2vw;
+    color: black;
+    box-shadow: 2px 2px 4px #000000;
+}
+.button:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.searchbar{
+    width: 60%;
+    box-shadow: 2px 2px 4px;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 255);
+}
