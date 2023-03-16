@@ -1,4 +1,12 @@
-UPDATE: Heroku no longer offers web hosting for free and hence, this app is down for now. I haven't found the time to host it on another free service yet, will do soon. You can check the code for concepts verification if needed.
+# UPDATE (17th March, 2023): 
+
+I have deployed the frontend on netlify and the app is live again on the link in the description section to your right.
+Backend is hosted on render and is live.
+
+
+# UPDATE (2nd March, 2023): 
+
+Heroku no longer offers web hosting for free and hence, this app is down for now. I haven't found the time to host it on another free service yet, will do soon. You can check the code for concepts verification if needed.
 
 Best I can do right now is show a picture of what the app looked like: 
 
