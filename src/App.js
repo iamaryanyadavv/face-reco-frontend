@@ -78,7 +78,7 @@ class App extends Component {
       .then(response=> {
         if(response){
           // 
-          fetch('http://localhost:3001/image', {
+          fetch('https://facerecoer.onrender.com/image', {
             method: 'put',
             headers: {'Content-Type':"application/json"},
             body: JSON.stringify({
